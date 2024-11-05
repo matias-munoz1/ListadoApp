@@ -15,4 +15,4 @@ Bienvenido a **ListadoApp**, una aplicación de gestión de inscripciones para s
 - **Bootstrap**: Framework CSS para crear una interfaz atractiva y responsiva.
 - **Mysql**: Base de datos ligera utilizada para almacenar los datos de las inscripciones.
 
-## Instalación
+
