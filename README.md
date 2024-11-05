@@ -13,6 +13,6 @@ Bienvenido a **ListadoApp**, una aplicación de gestión de inscripciones para s
 
 - **Django**: Framework web para el desarrollo del lado del servidor.
 - **Bootstrap**: Framework CSS para crear una interfaz atractiva y responsiva.
-- **SQLite**: Base de datos ligera utilizada para almacenar los datos de las inscripciones.
+- **Mysql**: Base de datos ligera utilizada para almacenar los datos de las inscripciones.
 
 ## Instalación
